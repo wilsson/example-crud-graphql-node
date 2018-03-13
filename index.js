@@ -18,5 +18,5 @@ app.use('/graphql', bodyParser.json(), graphqlExpress({ schema: myGraphQLSchema 
 app.get('/graphiql', graphiqlExpress({ endpointURL: '/graphql' }));
 
 app.listen(PORT, () =>  {
-    console.log('express is ready in localhost:' + PORT);
+    console.log(`express is ready in localhost: ${PORT}`);
 });

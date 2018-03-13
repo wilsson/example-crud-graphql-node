@@ -5,7 +5,6 @@ export default `
         id: ID!
     }
     type Query {
-        holaMundo: String,
         allPosts: [Post]!
         getPost(id: ID!): Post!
     }

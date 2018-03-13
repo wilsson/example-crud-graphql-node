@@ -1,3 +1,14 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "title": "javaScript",
+      "author": "wilson",
+      "id": 1
+    },
+    {
+      "title": "NodeJS",
+      "author": "wilson",
+      "id": 2
+    }
+  ]
 }
