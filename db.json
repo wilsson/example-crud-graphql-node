@@ -1,14 +1,20 @@
 {
-  "posts": [
+  "products": [
     {
-      "title": "javaScript",
-      "author": "wilson",
+      "description": "polo",
+      "price": 1000,
       "id": 1
     },
     {
-      "title": "NodeJS",
-      "author": "wilson",
+      "description": "pc",
+      "price": 10020,
       "id": 2
+    },
+    {
+      "description": "playStation4",
+      "price": 2020,
+      "id": 3
     }
-  ]
+  ],
+  "clients": []
 }
