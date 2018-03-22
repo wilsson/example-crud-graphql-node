@@ -16,5 +16,11 @@
       "id": 3
     }
   ],
-  "clients": []
+  "clients": [
+    {
+      "name": "kathia",
+      "age": 30,
+      "id": 1
+    }
+  ]
 }
