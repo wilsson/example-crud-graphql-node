@@ -1,26 +1,31 @@
 {
-  "products": [
+  "posts": [
     {
-      "description": "polo",
-      "price": 1000,
+      "title": "Introduccion a Express",
+      "authorId": 1,
       "id": 1
     },
     {
-      "description": "pc",
-      "price": 10020,
+      "title": "Introduccion a JavaScript",
+      "authorId": 2,
       "id": 2
     },
     {
-      "description": "playStation4",
-      "price": 2020,
+      "title": "Introduccion a NodeJS",
+      "authorId": 1,
       "id": 3
     }
   ],
-  "clients": [
+  "authors": [
     {
-      "name": "kathia",
+      "name": "wilson",
       "age": 30,
       "id": 1
+    },
+    {
+      "name": "Flash",
+      "age": 20,
+      "id": 2
     }
   ]
 }
